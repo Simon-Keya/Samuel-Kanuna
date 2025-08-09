@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
 
         {/* Location Information */}
         <p className="text-md text-gray-100">
-          Nairobi, Kenya
+          Based in Nairobi, Kenya
         </p>
 
         {/* Crafted By Link */}
